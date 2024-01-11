@@ -3,19 +3,12 @@
     "title": "SMESwin Unet: Merging CNN and transformer for medical image segmentation",
     "author": "Wang Z, Min X, Shi F, Jin R, Nawrin SS, Yu I, Nagatomi R",
     "imageSrc": "images/examplepaper.png",
-    "conference": "MICCAI"
+    "conference": "MICCAI 2022"
   },
   {
     "title": "Low Back Pain Exacerbation Is Predictable Through Motif Identification in Center of Pressure Time Series Recorded During Dynamic Sitting",
     "author": "Wang Z, Sato K, Nawrin SS, Widatalla NS, Kimura Y, Nagatomi R",
     "imageSrc": "images/examplepaper.png",
     "conference": "Frontiers in Physiology"
-  },
-  {
-    "title": "Mesoscopic simulation on curing deformation and residual stresses of 3D braided composites",
-    "author": "Yutong Fu, Xuhao Gao, Xuefeng Yao",
-    "imageSrc": "images/examplepaper.png",
-    "conference": "Composite Structures",
-    "pdfLink": "paper/test_page.pdf"
   }
 ]
