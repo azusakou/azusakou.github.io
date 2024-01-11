@@ -11,4 +11,11 @@
     "imageSrc": "images/examplepaper.png",
     "conference": "Frontiers in Physiology"
   },
+  {
+    "title": "Mesoscopic simulation on curing deformation and residual stresses of 3D braided composites",
+    "author": "Yutong Fu, Xuhao Gao, Xuefeng Yao",
+    "imageSrc": "images/examplepaper.png",
+    "conference": "Composite Structures",
+    "pdfLink": "paper/test_page.pdf"
+  }
 ]
