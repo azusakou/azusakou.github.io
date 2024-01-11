@@ -7,10 +7,72 @@
     "pdfLink": "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_50"
   },
   {
+    "title": "Biosignal processing methods to explore the effects of side-dominance on patterns of bi-and unilateral standing stability in healthy young adults",
+    "author": "Négyesi J, Petró B, Salman DN, Khandoker A, Katona P, Wang Z, Almaazmi AI, Hortobágyi T, Váczi M, Rácz K, Pálya Z. ...  & Nagatomi, R.",
+    "imageSrc": "images/student.png",
+    "conference": "Frontiers in Physiology",
+    "pdfLink": "https://www.frontiersin.org/articles/10.3389/fphys.2022.965702/full"
+  },
+  {
     "title": "Low Back Pain Exacerbation Is Predictable Through Motif Identification in Center of Pressure Time Series Recorded During Dynamic Sitting",
-    "author": "Wang Z, Sato K, Nawrin SS, Widatalla NS, Kimura Y, Nagatomi R",
+    "author": "Meng D, Wang Y, Guo H, Wang Z, Yang G.",
     "imageSrc": "images/lbp.png",
     "conference": "Frontiers in Physiology",
     "pdfLink": "https://www.frontiersin.org/articles/10.3389/fphys.2021.696077/full"
+  },
+  {
+    "title": "Effect of physical activity/exercise on cardiorespiratory fitness in children and adolescents with type 1 diabetes: a scoping review",
+    "author": "Chang X, Wang Z, Guo H, Xu Y, Ogihara A.",
+    "imageSrc": "images/student.png",
+    "conference": "IJERPH",
+  },
+  {
+    "title": "Self-Determined Sequence Exercise Program for Elderly with Sarcopenia: A Randomized Controlled Trial with Clinical Assistance from Explainable Artificial Intelligence.",
+    "author": "He S, Wei M, Meng D, Wang Z, Yang G, Wang Z. ",
+    "imageSrc": "images/student.png",
+    "conference": "Archives of Gerontology and Geriatrics.",
+  },
+  {
+    "title": "Body landmarks and genetic algorithm-based approach for non-contact detection of head forward posture among Chinese adolescents: revitalizing machine learning in medicine.",
+    "author": "Yang G, He S, Meng D, Wei M, Cao J, Guo H, Ren H, Wang Z.",
+    "imageSrc": "images/student.png",
+    "conference": "BMC Medical Informatics and Decision Making",
+  },
+  {
+    "title": "Hybrid Exercise Program Enhances Physical Fitness and Reverses Frailty in Older Adults: Insights and Predictions from Machine Learning. ",
+    "author": "Wei M, He S, Meng D, Yang G, Wang Z.",
+    "imageSrc": "images/student.png",
+    "conference": "The journal of nutrition, health & aging.",
+  },
+  {
+    "title": "Ensembling Deep Learning and Bioinformatics for Precision Treatment Recommendations: Application in Acute Myeloid Leukemia",
+    "author": "Wang Z, Min X, Shi F, Jin R, Nawrin SS, Yu I, Nagatomi R",
+    "imageSrc": "images/student.png",
+    "conference": "preprint",
+  },
+  {
+    "title": "Effectiveness of a Hybrid Exercise Program on the Physical Abilities of Frail Elderly and Explainable Artificial-Intelligence-Based Clinical Assistance",
+    "author": "Meng D, Guo H, Liang S, Tian Z, Wang R, Yang G, Wang Z.",
+    "imageSrc": "images/student.png",
+    "conference": "IJERPH",
+  },
+  {
+    "title": "Hybrid exercise program for sarcopenia in older adults: the effectiveness of explainable artificial intelligence-based clinical assistance in assessing skeletal muscle area.",
+    "author": "Wei M, Meng D, Guo H, He S, Tian Z, Wang Z, Yang G, Wang Z. ",
+    "imageSrc": "images/student.png",
+    "conference": "IJERPH",
+  },
+  {
+    "title": "The effectiveness of a hybrid exercise program on the physical fitness of frail elderly",
+    "author": "Wang ZY, Meng D, He S, Guo H, Tian Z, Wei M, Yang G, Wang Z.",
+    "imageSrc": "images/student.png",
+    "conference": "IJERPH",
+  },
+  {
+    "title": "The effect of jazz dance on physical and mental health of students with different physical fitness.",
+    "author": "Z Wang, G An, W Zhang, G Yang",
+    "imageSrc": "images/student.png",
+    "conference": "The Journal of sports medicine and physical fitness",
+    "pdfLink": "https://europepmc.org/article/med/29952176"
   }
 ]
