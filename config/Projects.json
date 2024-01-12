@@ -1,14 +1,20 @@
 [
   {
     "status": "Doing",
-    "dateRange": "2023.12 - ?",
-    "imageSrc": "images/examplepro.png",
-    "text": "Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project."
+    "dateRange": "2023.10 - ?",
+    "imageSrc": "images/daily.png",
+    "text": "Commercial Confidentiality. Computer Vision and time series-related tasks"
   },
   {
-    "status": "Doing",
-    "dateRange": "2023.12 - ?",
-    "imageSrc": "images/examplepro.png",
-    "text": "Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project."
-  }
+    "status": "Finised",
+    "dateRange": "2023.8 - 2023.9?",
+    "imageSrc": "images/rna.png",
+    "text": "RNA inverse folding environment for reinforcement learning. code is finished, but I am writing the README.md file"
+  },
+  {
+    "status": "Finished",
+    "dateRange": "2022.11 - 2023.10",
+    "imageSrc": "images/med.png",
+    "text": "Academic Confidentiality. Computer Vision and medical tasks"
+  },
 ]
